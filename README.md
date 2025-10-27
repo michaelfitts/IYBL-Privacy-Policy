@@ -138,7 +138,7 @@ Significant changes will be communicated through:
 If you have questions about this Privacy Policy or our practices, please contact:
 
 **Idaho Youth Basketball League**
-Email: michaelfitts01@gmail.com
+Email: iybltech@gmail.com
 
 ---
 
