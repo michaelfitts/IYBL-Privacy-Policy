@@ -4,79 +4,111 @@
 
 ## Introduction
 
-This Privacy Policy describes how the Idaho Youth Basketball League ("IYBL", "we", "us", or "our") mobile application ("App") collects, uses, and shares information about you.
-
-## Information We Collect
-
-### Information You Provide
-- **Account Information**: Email address and name when you create an account
-- **Team Preferences**: Teams you choose to follow
-- **Notification Preferences**: Your push notification settings
-
-### Automatically Collected Information
-- **Usage Data**: Features you use, games you view, and actions you take in the App
-- **Device Information**: Device type, operating system, and app version
-- **Performance Data**: Crash reports and error logs to improve app stability
-
-## How We Use Your Information
-
-We use the collected information to:
-- Provide and maintain the App's functionality
-- Send push notifications about games and scores (with your consent)
-- Personalize your experience by showing your followed teams
-- Improve the App through analytics and bug fixes
-- Communicate with you about updates or important information
-
-## Data Storage and Security
-
-- All data is encrypted in transit using HTTPS/TLS
-- Account credentials are securely stored using industry-standard encryption
-- We use Supabase as our secure backend service provider
-- Offline data is stored locally on your device and synced when online
-
-## Data Sharing
-
-We do NOT:
-- Sell your personal information to third parties
-- Share your data with advertisers
-- Use your data for marketing purposes beyond the App
-
-We MAY share data:
-- With service providers who help us operate the App (Supabase, Expo)
-- If required by law or legal process
-- To protect our rights or the safety of users
-
-## Your Rights
-
-You have the right to:
-- Access your personal data
-- Correct inaccurate data
-- Delete your account and associated data
-- Opt-out of push notifications
-- Request a copy of your data
-
-To exercise these rights, contact us at: michaelfitts01@gmail.com
-
-## Children's Privacy
-
-The App is intended for users aged 13 and older. We do not knowingly collect information from children under 13. If we learn we have collected such information, we will delete it immediately.
-
-## Changes to This Policy
-
-We may update this Privacy Policy from time to time. We will notify you of significant changes through the App or by email.
-
-## Third-Party Services
-
-The App uses:
-- **Supabase**: Database and authentication (https://supabase.com/privacy)
-- **Expo**: App development platform (https://expo.dev/privacy)
-
-## Contact Us
-
-If you have questions about this Privacy Policy, contact us at:
-- Email: michaelfitts01@gmail.com
-- Website: https://iybl.org
+The Idaho Youth Basketball League (“**IYBL**,” “**we**,” “**us**,” or “**our**”) values your privacy.  
+This Privacy Policy explains how the IYBL mobile application (“**App**”) handles information.  
+In short — we don’t collect or sell personal data. The App is designed for local use by players, parents, and coaches to view schedules, scores, and team information.
 
 ---
 
-By using the IYBL App, you agree to this Privacy Policy.
+## 1. Information We Collect
+
+### Regular Users
+We do **not** require account creation, and we do **not** collect or store personal information on our servers.  
+All user preferences (such as followed teams or notification settings) are stored **locally on your device** and never transmitted to IYBL.
+
+### Administrators
+Only authorized league administrators can sign in to update schedules, scores, and team information.  
+Administrative access is secured and limited to internal league staff.
+
+### Automatically Collected Technical Information
+The App may temporarily access limited technical details to ensure proper functionality, such as:
+- Device type and operating system (for compatibility)
+- App version
+- Basic performance or crash logs (to help us fix bugs)
+
+This information is **not linked to your identity** and is used only to maintain and improve the App.
+
+---
+
+## 2. How We Use Information
+
+We use limited technical and administrative data solely to:
+- Display current schedules, standings, and results  
+- Deliver optional notifications (if enabled)  
+- Maintain and improve App performance and reliability  
+- Securely update information entered by league administrators  
+
+We do **not** use any information for advertising, profiling, or marketing.
+
+---
+
+## 3. Data Storage and Security
+
+- All network communication uses **HTTPS/TLS encryption**.  
+- Administrative data is stored securely using **Supabase**, our backend service provider.  
+- Regular user data remains **stored locally** on your device.  
+- We do not store or process personal data on our own servers.
+
+---
+
+## 4. Data Sharing
+
+We do **not**:
+- Sell or rent user information.  
+- Share data with advertisers or third-party marketing platforms.
+
+We may share limited data **only** when:
+- Required by law or legal process, or  
+- Necessary to protect the rights and safety of users or the league.
+
+---
+
+## 5. Children’s Privacy
+
+The App is intended for general audiences and may be used by parents and players aged 13 and older.  
+We do not knowingly collect personal information from children under 13.  
+If we become aware of any such data, it will be deleted immediately.
+
+---
+
+## 6. Your Choices
+
+You can:
+- Disable or re-enable push notifications at any time through your device settings.  
+- Delete the App to remove all locally stored data.  
+
+Because no personal data is collected, there is no user account or server record to access or delete.
+
+---
+
+## 7. Third-Party Services
+
+The App relies on a few trusted tools strictly for functionality:
+
+- **Supabase** – secure data hosting for league schedules and results  
+  [https://supabase.com/privacy](https://supabase.com/privacy)
+
+- **Expo** – mobile framework used to build and deliver the App  
+  [https://expo.dev/privacy](https://expo.dev/privacy)
+
+These providers comply with industry-standard security and privacy practices.
+
+---
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy periodically to reflect changes in technology or league operations.  
+Any significant updates will be communicated within the App or on our website.
+
+---
+
+## 9. Contact Us
+
+If you have questions about this Privacy Policy or our data practices, please contact:
+
+**Email:** michaelfitts01@gmail.com  
+**Website:** [https://iybl.org](https://iybl.org)
+
+---
+
+By using the IYBL App, you acknowledge that you have read and understood this Privacy Policy.
