@@ -107,7 +107,6 @@ Any significant updates will be communicated within the App or on our website.
 If you have questions about this Privacy Policy or our data practices, please contact:
 
 **Email:** michaelfitts01@gmail.com  
-**Website:** [https://iybl.org](https://iybl.org)
 
 ---
 
